@@ -155,4 +155,3 @@ Bu projeyi yararlı bulduysanız yıldız vermeyi unutmayın! ⭐
 
 ---
 
-*Bu proje BTK Görüntü İşleme kursu kapsamında eğitim amaçlı geliştirilmiştir.*
